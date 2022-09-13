@@ -7,8 +7,13 @@ Identifiers play an important role in helping developers analyze and comprehend 
 Description of the replication package:
 
 We provide the name of the experimental projects and the source code of the proposed approach. 
+
 The src/DS folder contains the defined data structure of the proposed approach. 
+
 The src/classifierRun folder contains the prediction and suggestion process of the proposed approach. 
+
 The src/feature folder contains the feature extraction process of the proposed approach. 
+
 The src/InfoStatistics folder contains the characteristic information of the experimental projects. 
+
 The excel file contains the list of the experimental projects.
