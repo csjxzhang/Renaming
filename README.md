@@ -17,3 +17,6 @@ The src/feature folder contains the feature extraction process of the proposed a
 The src/InfoStatistics folder contains the characteristic information of the experimental projects. 
 
 The excel file contains the list of the experimental projects.
+
+In the first place, the feature folder should be run to obtain the values of the proposed features. After that, the classifierRun folder should be run to obtain the prediction and suggestion results of the proposed approach.
+
